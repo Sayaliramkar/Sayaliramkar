@@ -27,7 +27,7 @@
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/sayali-ramkar-63408a2a2
-- LeetCode: https://leetcode.com/u/69VRqdm3D/
+- LeetCode: https://leetcode.com/u/69VRqcdm3D
 - Email: ramkarsayali0@email.com
 <!---
 Sayaliramkar/Sayaliramkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
