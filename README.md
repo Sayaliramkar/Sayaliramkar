@@ -19,7 +19,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
 
 ## 📊 GitHub Stats
-![Sayali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayaliramkar&show_icons=true&theme=tokyonight)
+![Sayali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayaliramkar&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayaliramkar&layout=compact&theme=tokyonight)
 
